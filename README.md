@@ -1,2 +1,1 @@
-# portfolio
-This page shows my portfolio. 
+Website developed using bootstrap template
